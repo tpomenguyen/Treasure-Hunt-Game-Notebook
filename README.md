@@ -10,5 +10,5 @@ For Project 2, I wrote the code within the main loop of the application. This co
     
     * What are my ethical responsibilities to the end user and the organization?
     
-    I think my ethical responsibilities to the end user lie in the realm of transperency. As far as ML goes, this transparency might look like
+    I think my ethical responsibilities to the end user is transperency. As far as ML goes, this transparency might look like
     examining biases and publishing the sources of data used for training.
